@@ -8,9 +8,7 @@ Each assignment includes code, comments and a brief description of the problem b
 
 This repository serves as a reference for anyone looking to learn about Python programming or to see how specific programming concepts can be applied in practice.
 
-def display_cat():
-  print(" /\_/\ ")
+def display():
   print("( o.o )")
-  print(" > ^ < ")
   
-display_cat()
+display()
